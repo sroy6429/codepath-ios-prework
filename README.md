@@ -28,14 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/IC80qcp.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-- I spent a lot of time trying to figure out how to update the segment control with user entered tip values for a setting screen but for some reason, I kept running into errors and I could not figure out how to do it properly. 
-- I think the main issues outside of that lied in the connections. Once I checked the View Controller to see if all the connections were correct, a lot of the work ran more smoothly. 
+- I spent a lot of time trying to figure out how to update the segment control with user entered tip values for a setting screen, but I kept running into errors with logic and implementing the code itself so I could not figure out how to do it properly. 
+- The main issues outside of that lied in establishing connections correctly. Once I became more familiar with the view controller and the other settings, a lot of the work ran more smoothly. 
 
 
 ## License
