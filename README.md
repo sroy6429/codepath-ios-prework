@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tips for All*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tips for All** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Sukriti Roy**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Included a section that allows user to enter the number of people in the party and divides the total including tip to show cost per person 
 
 ## Video Walkthrough
 
@@ -34,11 +34,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- I spent a lot of time trying to figure out how to update the segment control with user entered tip values for a setting screen but for some reason, I kept running into errors and I could not figure out how to do it properly. 
+- I think the main issues outside of that lied in the connections. Once I checked the View Controller to see if all the connections were correct, a lot of the work ran more smoothly. 
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sukriti Roy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
